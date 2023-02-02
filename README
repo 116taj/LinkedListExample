@@ -1,7 +1,6 @@
 Program:        COMP 2401 Assignment 4: Linked Lists
 Author:         Taj Randhawa 
-Student Number: 101239627
-Date:           2022-11-27 (extension used)
+Date:           2022-11-27 
 
 Source files:   acct.c bank.c cust.c main.c
 Header files:   defs.h
